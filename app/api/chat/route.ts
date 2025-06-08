@@ -10,11 +10,11 @@ export async function POST(req: Request) {
       headers: {
         Authorization: `Bearer ${process.env.OPENROUTER_API_KEY}`,
         "Content-Type": "application/json",
-        "HTTP-Referer": "http://localhost:3000", // Substitua pelo seu domínio se estiver em produção
+        "HTTP-Referer": "http://localhost:3000",
         "X-Title": "Meu Chatbot com Llama 3",
       },
       body: JSON.stringify({
-        model: "meta-llama/llama-3-8b-instruct", // ou 'meta-llama/llama-3-70b-instruct'
+        model: "meta-llama/llama-3-8b-instruct", 
         messages: [
           {
             role: "system",
