@@ -8,7 +8,7 @@ Este é um projeto de chatbot construído com **Next.js 15**, **React 19** e **T
 - **Tailwind CSS 4**: Escolhido para uma estilização rápida e responsiva baseada em utilitários.
 - **Shadcn UI**: Adotado para componentes acessíveis e estilizados de forma consistente, acelerando o desenvolvimento da interface.
   - `app/api/chat/route.ts`: Rota para comunicação com a API da IA.
-  - `components/ui`: Biblioteca com ShadcnUI (botão, input, etc).
+  - `components/ui`: Componentes com estilização UI (botão, input, etc).
   - `lib/utils.ts`: Funções auxiliares.
 - **Estilo global próprio**: Estilização base definida em `globals.css` para maior controle visual.
 - **Deploy via Vercel**: Plataforma escolhida por integração nativa com Next.js.
