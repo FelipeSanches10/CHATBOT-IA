@@ -27,7 +27,7 @@ npm install
 
 ````
 
-🔑 3. Gere a chave da API (OpenRouter)
+### 🔑 2. Gere a chave da API (OpenRouter)
 Acesse: https://openrouter.ai/
 
 Clique em Sign In ou Sign Up (caso não tenha conta).
