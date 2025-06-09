@@ -16,16 +16,31 @@ Este é um projeto de chatbot construído com **Next.js 15**, **React 19** e **T
 
 ## 🧪 Como rodar localmente
 
-###  📂 Clone do repositório:
+### 📂 1. Clone do repositório
 
+```bash
 git clone https://github.com/FelipeSanches10/CHATBOT-IA.git
+cd CHATBOT-IA
 
+## Instaladores de dependências:
+npm install
 
-### 🔑 Chave de API:
+````
 
-OPENROUTER_API_KEY=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
+🔑 3. Gere a chave da API (OpenRouter)
+Acesse: https://openrouter.ai/
+
+Clique em Sign In ou Sign Up (caso não tenha conta).
+
+Vá em https://openrouter.ai/keys e gere sua API Key.
+
+Copie a chave gerada (começa com sk-or-...).
 
 
 ### 🚀 Link do Deploy:
 
 (https://chatbot-ia-pi.vercel.app/)
+
+
+👤 Autor
+Desenvolvido por Felipe Sanches.
