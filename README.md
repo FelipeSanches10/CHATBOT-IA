@@ -39,7 +39,7 @@ Copie a chave gerada (começa com sk-or-...).
 
 ### 🚀 Link do Deploy:
 
-[(https://chatbot-ia-pi.vercel.app/)](https://chatbot-n11pltmd1-felipesanches10s-projects.vercel.app/)
+(https://chatbot-n11pltmd1-felipesanches10s-projects.vercel.app/)
 
 
 👤 Autor
