@@ -5,7 +5,7 @@ export default function Home() {
     <main className="min-h-screen flex flex-col items-center justify-center bg-gray-900 text-white px-4">
       <div className="max-w-xl w-full text-center space-y-6">
         <h1 className="text-4xl md:text-5xl font-bold !text-white">
-          Bem-vindo ao IDe.ia 
+          Bem-vindo ao IDe.ia
         </h1>
         <p className="text-lg md:text-xl text-white">
           <Link

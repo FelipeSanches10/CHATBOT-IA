@@ -111,6 +111,18 @@
   --color-sidebar-ring: var(--sidebar-ring);
 }
 
+textarea {
+  width: 100%;
+  min-height: 100px;
+  resize: vertical; 
+  overflow-wrap: break-word;
+  white-space: pre-wrap;
+  word-break: break-word;
+  box-sizing: border-box; 
+}
+
+
+
 @layer base {
   * {
     @apply border-border outline-ring/50;
